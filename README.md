@@ -2,3 +2,4 @@
 THIS IS AN AMAZON CLONE WEBSITE USING HTML AND CSS ONLY
 <br>
 Starting coding once again
+day 2
